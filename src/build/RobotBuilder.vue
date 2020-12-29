@@ -197,7 +197,7 @@ export default {
   border: 3px solid #aaa;
 }
 .part {
-  
+
   img {
     width:165px;
   }
@@ -219,6 +219,7 @@ export default {
   border-bottom: none;
 }
 .left {
+  
   border-right: none;
 }
 .right {
