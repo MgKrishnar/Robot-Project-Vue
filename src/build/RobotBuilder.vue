@@ -197,6 +197,7 @@ export default {
   border: 3px solid #aaa;
 }
 .part {
+  
   img {
     width:165px;
   }
